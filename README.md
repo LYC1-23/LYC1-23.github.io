@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>刘庚辰 - 个人简历</title>
+    <title>刘庾辰 - 个人简历</title>
     <style>
         * {
             margin: 0;
@@ -215,9 +215,9 @@
 
     <!-- ===== 顶部：头像 + 姓名 + 联系方式 ===== -->
     <div class="header">
-        <img src="photo.jpg" alt="刘庚辰" class="avatar" onerror="this.style.display='none'">
+        <img src="9329f7a4fde4311f83d3a02b21bce687.jpg" alt="刘庾辰" class="avatar" onerror="this.style.display='none'">
         <div class="name-title">
-            <h1>刘庚辰</h1>
+            <h1>刘庾辰</h1>
             <div class="sub">材料工程 · 纳米技术方向</div>
         </div>
         <div class="contact-short">
@@ -387,15 +387,9 @@
 
     buttons.forEach(btn => {
         btn.addEventListener('click', function() {
-            // 移除所有按钮的 active 状态
             buttons.forEach(b => b.classList.remove('active'));
-            // 当前按钮设为 active
             this.classList.add('active');
-
-            // 隐藏所有页面
             Object.values(pages).forEach(p => p.classList.remove('active'));
-
-            // 显示对应的页面
             const pageId = this.dataset.page;
             if (pages[pageId]) {
                 pages[pageId].classList.add('active');
