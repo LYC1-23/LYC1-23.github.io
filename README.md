@@ -185,7 +185,7 @@
         </div>
         <div class="contact-info">
             📞 130-8152-4628<br>
-            📧 <a href="mailto:113081524628@163.com">113081524628@163.com</a><br>
+            📧 <a href="mailto:113081524628@163.com">l13081524628@163.com</a><br>
             🐙 <a href="https://github.com/LYC1-23" target="_blank">github.com/LYC1-23</a>
         </div>
     </div>
