@@ -270,7 +270,7 @@
             <h2>工作经历</h2>
             <div class="card-item">
                 <div class="head">
-                    <span class="title">心赛科技研发部 · 研发工程师</span>
+                    <span class="title">心寰科技研发部 · 研发工程师</span>
                     <span class="date">2026.06 – 至今</span>
                 </div>
                 <div class="detail">
