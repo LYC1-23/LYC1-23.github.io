@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>刘庚辰 - 个人简历</title>
+    <title>刘庾辰 - 个人简历</title>
     <style>
         * {
             margin: 0;
@@ -180,7 +180,7 @@
     <!-- 头部信息 -->
     <div class="header">
         <div class="name-title">
-            <h1>刘庚辰</h1>
+            <h1>刘庾辰</h1>
             <div class="sub">材料工程 · 纳米技术方向</div>
         </div>
         <div class="contact-info">
@@ -195,7 +195,7 @@
         <h2>教育经历</h2>
         <div class="edu-item">
             <div class="head">
-                <span class="school">香港城市大学 · 材料工程及纳米技术 硕士</span>
+                <span class="school">香港城市大学（东莞） · 材料工程及纳米技术 硕士</span>
                 <span class="date">2025.09 – 2027.06</span>
             </div>
             <div class="detail">
